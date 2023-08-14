@@ -18,12 +18,12 @@
 3. Let your function return something like `Hello World!`
 4. Add your controller to the routes in `routes.php`
 
-##### **`HelloWorldController.php`**
+##### **`src/controllers/HelloWorldController.php`**
 
 ```php
 <?php
 
-class HelloWorldController extends Controller
+class HelloWorldController implements IController 
 {
 	public function world()
 	{
