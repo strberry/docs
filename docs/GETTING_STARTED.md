@@ -50,3 +50,9 @@ $routes = [
 ```
 
 This will execute the `world` function in the `HelloWorldController` at `/`.
+
+#### Testing the Route
+```
+user@box:/var/www/html$ curl http://localhost/
+Hello World!
+```
