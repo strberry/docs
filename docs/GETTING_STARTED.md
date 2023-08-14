@@ -31,3 +31,22 @@ class HelloWorldController implements IController
 	}
 }
 ```
+
+### Registering a controller as route
+
+##### **`routes.php`**
+
+```php
+<?php
+
+$routes = [
+	...
+
+	'/'  => [HelloWorldController::class, 'world'],
+
+	...
+];
+
+```
+
+This will execute the `world` function in the `HelloWorldController` at `/`.
