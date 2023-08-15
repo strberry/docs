@@ -10,4 +10,4 @@ This framework tries to fasten PHP development by offering a modular architectur
 Strawberry is primarily designed for hobby development. 
 It is not meant for significant projects or practical real-world applications.
 
-[Getting Started](docs/GETTING_STARTED) | [GitHub Organization](https://github.com/strberry) 
+[Getting Started](GETTING_STARTED) | [GitHub Organization](https://github.com/strberry) 
