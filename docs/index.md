@@ -1,7 +1,3 @@
----
-output: html_document
----
-
 # Introduction
 
 Welcome to the documentation for Strawberry, a lightweight PHP framework.
