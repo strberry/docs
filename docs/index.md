@@ -1,8 +1,3 @@
----
-title: Home
-layout: home
----
-
 # Introduction
 
 Welcome to the documentation for Strawberry, a lightweight PHP framework.
