@@ -1,5 +1,6 @@
 ---
-output: html_document
+title: Home
+layout: home
 ---
 
 # Introduction
